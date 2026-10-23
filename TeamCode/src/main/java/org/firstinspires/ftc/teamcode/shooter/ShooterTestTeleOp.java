@@ -381,7 +381,7 @@ public class ShooterTestTeleOp extends OpMode {
     private String lastNote = "";
 
     // =================================================================
-
+//Im gay lowkey
     @Override
     public void init() {
         // ---- motor -------------------------------------------------
